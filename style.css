@@ -1,1 +1,57 @@
-/* Your CSS styles go here */
+body {
+  background: url("image.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Main{background-color: rgba(1, 02, 0, 0.7);
+  color: LightSlateGray ;
+  padding: 40px;
+  height: 300px;
+  width: 500px;
+  margin: 100px auto;}
+
+  .object{
+  background-color: rgba(1, 1, 0, 0.7);
+  color: LightSlateGray ;
+  padding: 40px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+}
+.Acamdemic{
+  background-color: rgba(0, 0, 0, 0.7);
+ color: LightSlateGray ;
+ padding: 40px;
+ height: auto;
+ width: 550px;
+ margin: 100px auto;
+}
+.skill{
+  background-color: rgba(0, 0, 0, 0.7);
+   color: LightSlateGray ;
+   padding: 40px;
+   height: auto;
+   width: 500px;
+   margin: 100px auto;
+}
+
+.personal{
+
+  background-color: rgba(0, 0, 0, 0.7);
+   color: LightSlateGray ;
+   padding: 40px;
+   height: auto;
+   width: 500px;
+   margin: 100px auto;
+}
+.Additional{
+  background-color: rgba(0, 0, 0, 0.7);
+   color:LightSlateGray ;
+   padding: 20px;
+   height: auto;
+   width: 500px;
+   margin: 100px auto;
+}
